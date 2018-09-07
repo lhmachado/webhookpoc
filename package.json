@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "micro": "latest"
+  },
+  "name": "webhook-receiver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
